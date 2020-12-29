@@ -35,3 +35,19 @@ El segundo proyecto es un reproductor de musica que tiene las siguientes funcion
 detener musica y proximamente tendra reproduccion en cola.
 
 ![image](https://user-images.githubusercontent.com/61121429/103178803-f5a39500-4864-11eb-9ea8-175d04f88580.png)
+
+<br>
+
+### Tercer Proyecto ToDo List
+
+### Librerias Usadas
+
+- Tkinter
+- sqlite3
+
+### Descripcion
+
+El tercer proyecto es una lista de tareas que tiene las funcionalidad de: agregar tarea, mostrar tarea, actualizar tarea y eliminar tarea.
+
+![image](https://user-images.githubusercontent.com/61121429/103257597-99c63280-4970-11eb-916b-90e90d531c06.png)
+
